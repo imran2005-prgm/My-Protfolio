@@ -75,12 +75,7 @@ body{
         position: relative;
         margin-top: 1em;
         font-size: 4em;
-        color: transparent;
-        -webkit-text-stroke: .7px white;
-        animation: typewriter 4s steps(20, end) infinite, blink-cursor 0.7s step-end infinite;
         overflow: hidden;
-        white-space: nowrap;
-        width: fit-content;
     }
         
     img{
